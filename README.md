@@ -1,4 +1,4 @@
-# ValluvarKottam-A-Virtual-Monument
+# ValluvarKottam - A Virtual Monument
 
 Monuments are important as part of our history and culture, since they help us understand about communities which sustained in different periods with their own art, culture, and tradition. Also, the monuments will help us notice changes in the current societies and the reasons that cause the change in culture.
 
