@@ -1,0 +1,5 @@
+ValluvarKottam-WindowsNoEditor.pak filter=lfs diff=lfs merge=lfs -text
+ValluvarKottam/* filter=lfs diff=lfs merge=lfs -text
+Engine/* filter=lfs diff=lfs merge=lfs -text
+ValluvarKottam.exe filter=lfs diff=lfs merge=lfs -text
+Manifest_NonUFSFiles_Win64.txt filter=lfs diff=lfs merge=lfs -text
