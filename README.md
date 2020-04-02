@@ -28,3 +28,6 @@ concept.
 3. Deploying a mobile version for easier access and wider reach.
 4. Extend to create other educational tools like virtual labs and simulations.
 
+## How to use this
+Just download the repository, extract it, and then run the ValluvarKottam.exe file. 
+
